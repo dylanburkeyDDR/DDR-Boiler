@@ -1,0 +1,18 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  Web Development Analyst - Dylan Burkey
+  Site: DDR.com
+  Twitter: @dylanburkey
+  Location: Beachwood, Ohio
+
+/* THANKS */
+  Bruce @ Thundertech
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Modernizr, jQuery
+  Software: Dreamweaver, Submlime
+
